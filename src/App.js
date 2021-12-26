@@ -7,13 +7,13 @@ const DUMMY_EXPENSES = [
     id: "e1",
     title: "Rich Dad Book",
     amount: 245.56,
-    date: new Date(2021, 2, 15),
+    date: new Date(2021, 6, 15),
   },
   {
     id: "e2",
     title: "Toilet Paper",
     amount: 145.56,
-    date: new Date(2020, 2, 15),
+    date: new Date(2020, 2, 1),
   },
   {
     id: "e3",
@@ -24,8 +24,8 @@ const DUMMY_EXPENSES = [
   {
     id: "e4",
     title: "Car Insurannce",
-    amount: 245.56,
-    date: new Date(2020, 2, 10),
+    amount: 45.56,
+    date: new Date(2020, 3, 10),
   },
 ];
 const App = () => {
